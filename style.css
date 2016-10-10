@@ -1,0 +1,105 @@
+body {
+  background-color: #1f253d;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-family: 'Asap', sans-serif;
+}
+
+.container {
+  width: 350px;
+  text-align: center;
+  list-style: none;
+  margin: 0 auto;
+  background-color: #394264;
+  border-radius: 10px;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  padding-top: 25px;
+}
+
+.container input {
+  font-family: 'Asap', sans-serif;
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+.container textarea {
+  font-family: 'Asap', sans-serif;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.container a {
+  font-family: 'Asap', sans-serif;
+  text-decoration: none;
+  color: #fff;
+  line-height: 5em;
+}
+.container a:hover {
+color: #fff;
+text-decoration: underline;
+}
+
+.button {
+  font-family: 'Asap', sans-serif;
+ display: block;
+ width: 175px;
+ line-height: 50px;
+ font-size: 16px;
+ text-align: center;
+ margin: 10px auto;
+ border-radius: 5px;
+ background: #e64c65 ;
+ border: 0px solid #e64c65 ;
+ color: #fff;
+ text-transform: uppercase;
+ cursor: pointer;
+}
+
+.button:hover {
+  background: #e64b78;
+}
+
+b {
+  color: #fff;
+  font-family: 'Asap', sans-serif;
+  text-decoration: underline;
+  font-size: 19px;
+  line-height: 3em;
+}
+
+p {
+  color: #fff;
+  font-family: 'Asap', sans-serif;
+}
+
+span{
+  color: #fff;
+  font-family: 'Asap', sans-serif;
+}
+
+h2 {
+  color: #fff;
+  text-decoration: underline;
+  font-family: 'Asap', sans-serif;
+}
+
+.error {
+  color: red;
+  font-family: 'Asap', sans-serif;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+.validate {
+  color: green;
+  font-family: 'Asap', sans-serif;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
