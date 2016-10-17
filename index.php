@@ -13,7 +13,7 @@
 // Connexion à la base de données
 try
 {
-   $bdd = new PDO('mysql:host=localhost;dbname=articles;charset=utf8', 'root', 'simplon');
+   $bdd = new PDO('mysql:host=localhost;dbname=articles;charset=utf8', 'root', '');
 }
 catch(Exception $e)
 {
